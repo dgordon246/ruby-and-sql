@@ -21,6 +21,8 @@ Salesperson.destroy_all
 
 # 2. insert 1-2 rows in salespeople table.
 
+
+
 # 3. write code to display how many salespeople rows are in the database
 
 # ---------------------------------
